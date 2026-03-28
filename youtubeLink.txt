@@ -1,110 +1,51 @@
-## FORMAT: <channel name> || <channel id> || <category>
-## <channel name> can be anything - either stream or channel name. It will appear on the EPG though.
-## <channel id> is used to match EPG data to the M3U8 playlist, so make it short and with no spaces. End it in '.yt' to show its from YouTube.
-## <category> is used to group streams, so something like 'Music' or 'News' is recommended.
 
-Chillhop Music (jazzy & lofi hip hop beats) || Chillhop.yt || Music
-https://www.youtube.com/watch?v=5yx6BWlEVcY
+C mausan || mausan.yt || Documental
+https://www.youtube.com/@jaimemaussanoficial
 
-Avex J-Pop 24/7 || Avex.yt || Music
-https://www.youtube.com/watch?v=tr77RbnfYIU
+Camino || CX || Espiritu
+https://www.youtube.com/@CaminoExtremoTV
 
-Tomorrowland: One World Radio || TOWR.yt || Music
-https://www.youtube.com/watch?v=wBgSH-CGPzg
+Myke ||myk.yt || Entretenimiento
+https://www.youtube.com/@mikemaquinadelmal5016
 
-JapanesePod101 Live || JPod101.yt || Education
-https://www.youtube.com/watch?v=c3nH0tIpK68
+Mundo || Desc.yt || Documental
+https://www.youtube.com/@mundodesconocido
 
-Korea.net Live || KoreaNet.yt || Education
-https://www.youtube.com/watch?v=ym_Tf2dSWGY
+Mekes || meke.yt || Deportes
+https://www.youtube.com/@MeketrefesDelDeporte
 
-Sky News || SkyNews.yt || News
-https://www.youtube.com/watch?v=9Auq9mYxFEE
+C conca || concacaf.yt || Deportes
+https://www.youtube.com/@concacaf
 
-France 24 (English) || France24En.yt || News
-https://www.youtube.com/watch?v=tkDUSYHoKxE
+C panama || pNm.yt || Deportes
+https://www.youtube.com/@DeportesRPC
 
-CGTN Europe || CGTN Europe.yt || News
-https://www.youtube.com/watch?v=UP5z9dRC6RU
+C tico || CR.yt || Deportes
+https://www.youtube.com/@DeportesGrupoRepretelCR
 
-CNA || CNA.yt || News
-https://www.youtube.com/watch?v=XWq5kBlakcQ
+C Cinco Hon || honduras.yt || Deportes
+https://www.youtube.com/results?search_query=canal+cinco+deportes+de+honduras+en+vivo
 
-ABC News (US) || ABCNewsUS.yt || News
-https://www.youtube.com/watch?v=OOtxXPaQvoM
+Dep Panama || panama.yt || Deportes
+https://www.youtube.com/@deportestvchn
 
-ABC News (AU) || ABCNewsAU.yt ||  News
-https://www.youtube.com/watch?v=vOTiJkg1voo
+Canal Once || canalonce.yt || Noticias
+https://www.youtube.com/@CanalOnceMexico
 
-Bloomberg Global || Bloomberg.yt || News
-https://www.youtube.com/watch?v=dp8PhLsUcFE
+Milenio TV || mileniotv.yt || Noticias
+https://www.youtube.com/@Milenio
 
-Euronews || EuronewsEN.yt || News
-https://www.youtube.com/watch?v=pykpO5kQJ98
+Azteca Noticias || aztecanoticias.yt || Noticias
+https://www.youtube.com/@AztecaNoticias
 
-NDTV 24x7 || NDTV.yt || News
-https://www.youtube.com/watch?v=Nen3UXaWDDE
+El Universal || eluniversal.yt || Noticias
+https://www.youtube.com/@ElUniversalOnline
 
-Al Jazeera English || AlJazeera.yt || News
-https://www.youtube.com/watch?v=gCNeDWCI0vo
+Foro TV || forotv.yt || Noticias
+https://www.youtube.com/@Forotv
 
-TRT World || TRTWorld.yt || News
-https://www.youtube.com/watch?v=5VF4aor94gw
+Canal 5 || canal5.yt || Entretenimiento
+https://www.youtube.com/@canal5televisa
 
-CNBC Marathon || CNBCMarathon.yt || News
-https://www.youtube.com/watch?v=9NyxcX3rhQs
-
-DW News || DWNews.yt || News
-https://www.youtube.com/watch?v=pqabxBKzZ6M
-
-NHK World Japan || NHKWorld.yt || News
-https://www.youtube.com/watch?v=f0lYkdA-Gtw
-
-Relaxing Jazz Piano Radio || JazzRadio.yt || Music
-https://www.youtube.com/watch?v=Dx5qFachd3A
-
-Epidemic Pop || EpidemicPop.yt || Music
-https://www.youtube.com/watch?v=wrEckgZZapI
-
-TOKYO Cafe || TokyoCafe.yt || Music
-https://www.youtube.com/watch?v=6uddGul0oAc
-
-Rainy Jazz: Relaxing Jazz & Bossa Nova Music Radio || RainyJazz.yt || Music
-https://www.youtube.com/watch?v=DSGyEsJ17cI
-
-Little Soul: Music to put you in a better mood || LittleSoul.yt || Music
-https://www.youtube.com/watch?v=XstikgbeTPI
-
-Lofi Girl: lofi hip hop radio (beats to relax/study to) || LofiGirl1.yt || Music
-https://www.youtube.com/watch?v=jfKfPfyJRdk
-
-Lofi Girl: lofi hip hop radio (beats to sleep/chill to) || LofiGirl2.yt || Music
-https://www.youtube.com/watch?v=rUxyKA_-grg
-
-Jazz Cafe Ambience || JazzCafeAmbience.yt || Music
-https://www.youtube.com/watch?v=AEKtQW93OVg
-
-Abao in Tokyo: jazz/lofi hip hop radio || AbaoInTokyo.yt || Music
-https://www.youtube.com/watch?v=HAZoLuME-PU
-
-The Good Life Radio || GoodLifeRadio.yt || Music
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-Vibing with KPop with KBS WORLD TV || KBSWorldKPop.yt || Music
-https://www.youtube.com/watch?v=6OSR_exBXQc
-
-KBS KOREA Live || KBSKorea.yt || News
-https://www.youtube.com/watch?v=OxQQsIvJTTU
-
-FeelingInTheBeat Radio || FeelingInTheBeat.yt || Music
-https://www.youtube.com/watch?v=Ix3kXeAyXfA
-
-NASA Starbase Live || NASALive.yt || Live
-https://www.youtube.com/watch?v=mhJRzQsLZGg
-
-渋谷スクランブル交差点 Shibuya Scramble Crossing Live Camera || ShibuyaScramble.yt || Live
-https://www.youtube.com/watch?v=3kPH7kTphnE
-
-ARY Digital (Pakistani Dramas & Entertainment) || ARYDigital.yt || Live
-https://www.youtube.com/watch?v=QoUkQUq57LA
-
+Azteca 7 || azteca7.yt || Entretenimiento
+https://www.youtube.com/@AztecaSiete
